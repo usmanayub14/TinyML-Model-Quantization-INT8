@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="744.442625pt" height="436.109694pt" viewBox="0 0 744.442625 436.109694" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-24T15:48:46.128005</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.6, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 436.109694 
+L 744.442625 436.109694 
+L 744.442625 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 53.530625 360.020375 
+L 415.543735 360.020375 
+L 415.543735 105.572375 
+L 53.530625 105.572375 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #596a78" x="129.727362" y="374.858969" transform="rotate(-0 129.727362 374.858969)">FP32</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #596a78" x="339.346998" y="374.858969" transform="rotate(-0 339.346998 374.858969)">Static INT8</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <path d="M 53.530625 360.020375 
+L 415.543735 360.020375 
+" clip-path="url(#p910975a4b4)" style="fill: none; stroke: #e5eaf0; stroke-width: 0.7; stroke-linecap: round"/>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #596a78" x="45.530625" y="363.439672" transform="rotate(-0 45.530625 363.439672)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <path d="M 53.530625 302.591246 
+L 415.543735 302.591246 
+" clip-path="url(#p910975a4b4)" style="fill: none; stroke: #e5eaf0; stroke-width: 0.7; stroke-linecap: round"/>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #596a78" x="45.530625" y="306.010543" transform="rotate(-0 45.530625 306.010543)">4</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <path d="M 53.530625 245.162118 
+L 415.543735 245.162118 
+" clip-path="url(#p910975a4b4)" style="fill: none; stroke: #e5eaf0; stroke-width: 0.7; stroke-linecap: round"/>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #596a78" x="45.530625" y="248.581415" transform="rotate(-0 45.530625 248.581415)">8</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4">
+      <path d="M 53.530625 187.732989 
+L 415.543735 187.732989 
+" clip-path="url(#p910975a4b4)" style="fill: none; stroke: #e5eaf0; stroke-width: 0.7; stroke-linecap: round"/>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #596a78" x="45.530625" y="191.152286" transform="rotate(-0 45.530625 191.152286)">12</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5">
+      <path d="M 53.530625 130.30386 
+L 415.543735 130.30386 
+" clip-path="url(#p910975a4b4)" style="fill: none; stroke: #e5eaf0; stroke-width: 0.7; stroke-linecap: round"/>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #596a78" x="45.530625" y="133.723157" transform="rotate(-0 45.530625 133.723157)">16</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #213448" x="21.998438" y="232.796375" transform="rotate(-90 21.998438 232.796375)">Artifact size (MB, decimal)</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 69.985766 360.020375 
+L 189.468959 360.020375 
+L 189.468959 153.152082 
+L 69.985766 153.152082 
+z
+" clip-path="url(#p910975a4b4)" style="fill: #356a9a; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 279.605402 360.020375 
+L 399.088594 360.020375 
+L 399.088594 303.614676 
+L 279.605402 303.614676 
+z
+" clip-path="url(#p910975a4b4)" style="fill: #008577; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 53.530625 360.020375 
+L 415.543735 360.020375 
+" style="fill: none; stroke: #a9b4bf; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #213448" x="129.727362" y="144.152082" transform="rotate(-0 129.727362 144.152082)">14.409 MB</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #213448" x="339.346998" y="294.614676" transform="rotate(-0 339.346998 294.614676)">3.929 MB</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 41px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #008577" x="503.784431" y="148.828535" transform="rotate(-0 503.784431 148.828535)">3.67×</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #213448" x="503.784431" y="181.906775" transform="rotate(-0 503.784431 181.906775)">FP32 / INT8 size ratio</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 29px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #213448" x="503.784431" y="235.340855" transform="rotate(-0 503.784431 235.340855)">72.7%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #213448" x="503.784431" y="263.330135" transform="rotate(-0 503.784431 263.330135)">artifact size reduction</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #596a78" transform="translate(503.784431 312.704948)">Includes serialization overhead.</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #596a78" transform="translate(503.784431 326.942135)">Measured from files saved in this run.</text>
+   </g>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 20px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #213448" x="53.530625" y="29.684375" transform="rotate(-0 53.530625 29.684375)">MobileNetV2 | storage footprint</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #596a78" x="53.530625" y="54.682775" transform="rotate(-0 53.530625 54.682775)">Complete serialized TorchScript models: graph + weights</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #596a78" x="53.530625" y="402.428375" transform="rotate(-0 53.530625 402.428375)">Calibration: 128 synthetic images  •  HistogramObserver (L2 threshold search)</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #596a78" x="53.530625" y="419.837975" transform="rotate(-0 53.530625 419.837975)">Local CPU experiment. Synthetic calibration does not establish classification accuracy.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p910975a4b4">
+   <rect x="53.530625" y="105.572375" width="362.01311" height="254.448"/>
+  </clipPath>
+ </defs>
+</svg>

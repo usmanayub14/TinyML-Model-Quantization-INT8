@@ -1,0 +1,6 @@
+# Matched CPU-capable releases; this project uses the torch.ao eager PTQ API.
+torch==2.8.0
+torchvision==0.23.0
+numpy==2.2.6
+matplotlib==3.10.6
+seaborn==0.13.2
