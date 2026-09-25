@@ -6,3 +6,4 @@ artifacts/*
 !artifacts/*.png
 !artifacts/*.svg
 !artifacts/metrics.json
+.codex/
